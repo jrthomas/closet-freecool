@@ -202,4 +202,4 @@ The problems someone else is most likely to hit:
 
 ## License
 
-Firmware: MIT. Hardware: CERN-OHL-P v2. *(to be confirmed)*
+Firmware: [MIT](LICENSE). Hardware: [CERN-OHL-P v2](hardware/LICENSE).
