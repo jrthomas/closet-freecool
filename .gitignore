@@ -1,0 +1,18 @@
+# Site configuration and credentials -- see secrets.example.h
+secrets.h
+
+# Build output
+build/
+*.bin
+*.elf
+*.map
+
+# Node-RED credential exports (plaintext when credentialSecret is off)
+*_cred.json
+flows_cred*
+
+# Editor / OS clutter
+*.swp
+*~
+.DS_Store
+.vscode/
